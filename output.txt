@@ -1,0 +1,94 @@
++91-8000290624
+Ankush Bhatia
+ankushbhatia02@gmail.com
+I’m a Computer Science Engineer with a knack for Machine Learning. 3
+Publications in AI, Recommender Systems and Contextual Document
+Similarity, respectively.
+EXPERIENCE SKILLS
+Qualcomm, ​Hyderabad, Telangana — ​Machine Learning C/C++
+Engineer
+Python
+April 2019 - PRESENT
+Machine Learning/NLP
+I am currently working on developing Hardware Abstraction Layer(HAL)
+for accelerating Machine Learning models on QCom devices. Our HAL AWS
+serves as a vendor implementation of the Neural Networks API by
+Recommender Systems
+Android. Technologies used : C/C++, Python, AndroidNN, Linux, ARM
+Information Retrieval
+Clik.ai, G​ urugram, Haryana— ​Machine Learning Developer Django/Flask
+SEPT 2017 - MARCH 2019
+I worked mainly in Document Structuring, Information Retrieval and
+Image Processing. My major work involved working in core Image PUBLICATIONS
+Processing (OCR, Noise Removal, Deskew), structuring readable/scanned
+Artificial Intelligence -
+PDFs (Financial Documents) into dataframes such that they're easily
+Making an Intelligent
+extractable. Used basic NLP and classification techniques to extract useful
+personal assistant ​published
+information from financials. Also worked briefly on NER tagging for
+at Indian Journal of Computer
+financials and a basic search engine to query over a large dataset of
+Science and Engineering, 2015
+documents. Technologies Used : Python, C++, AWS, Linux, Spacy,
+Tesseract, OCR, Tensorflow, Keras, scikit-learn, pandas Community Detection for the
+cold start problem in
+Praktice.ai, ​Banglore, Karnataka ​—​ ​Machine Learning personalization p​ ublished at
+Developer 16th IEEE CIT International
+Conference, Fiji, 2016
+JAN 2017 - SEPT 2017
+I made Chatbots for healthcare. My work here mostly involved : NLP, Two Layer Earth Mover's
+Signal Processing, Data Engineering, Django, AWS. I have made several Distance over Latent Topics
+Machine Learning APIs like Speaker Recognition, Text Summarization, and Word2vec for document
+Text Chunking and Named Entity Recognition, Bayesian networks for similarity ​applied for
+Diagnosis, etc​. Technologies Used : Python, Django, AWS, pandas, publication.
+hmmlearn, crfsuite, redis, Linux, celery.
+EpZeta Technologies, B​ anglore, Karnataka​ —​ ​Machine
+Learning Intern
+MAY 2016 - JULY 2016
+Developed Recommender System for online offers for the startup.
+Technologies Used : Python, NetworkX, Linux, Numpy, PandasEDUCATION ACHIEVEMENTS
+Georgia Institute of Technology ​— ​Master of Science in ACM ICPC Asia Regionals -
+Computer Science Amritapuri - 2016​ Ranked
+42nd out of 400+ teams that
+JAN 2021 - PRESENT
+qualified for asia regionals.
+Specialization : Machine Learning (Pursuing)
+ACM ICPC Asia Regionals -
+Charotar University of Science and Technology, ​Gujarat,
+Kharagpur - 2015 ​Ranked
+India — B​ achelor of Technology in Computer Engineering
+49th out of 200+ teams that
+AUG 2013 - JUNE 2017
+qualified for Asia Regionals
+I graduated with First Class honors from Charotar University of Science
+and Technology.
+Online Judges​ Ranked in top
+100 of a long contest by
+Codechef. Highest rating 1881
+PROJECTS
+in Codechef. Solved 132
+problems on spoj and ranked
+Community-detect
+among top 1k in the world
+A graph clustering python module based on my publication. Hosted
+at PyPi with more than 500 downloads. Google's Hidden FooBar
+Challenge​ Completed all 5
+levels of Google's secret
+Messi
+FooBar Challenge.
+Messi is an Intelligent personal assistant that controls my entire
+system through text, gestures and voice. Wrote a paper describing
+how i optimised memory of a rule based bot.
+DocSearch
+Developed a more accurate document similarity algorithm for a
+corpus of large documents using EMD over Latent Topics.
+Sarah/Praktice/Elth
+Sarah was a voice bot and praktice and elth were chatbots which I
+developed for my work at Praktice.ai.
+Clik.ai
+Docu.ai is a search engine for querying over thousands of financial
+documents which I developed for my time at Clik.ai.
+Neural Networks API
+Developing Hardware Abstraction Layer for Android’s Neural Networks
+API.
